@@ -1,0 +1,32 @@
+# Normalize all detected text files and store them with LF line endings.
+* text=auto eol=lf
+
+# Binary files
+*.7z binary
+*.avi binary
+*.bmp binary
+*.doc binary
+*.docx binary
+*.eot binary
+*.gif binary
+*.gz binary
+*.ico binary
+*.jpeg binary
+*.jpg binary
+*.mov binary
+*.mp3 binary
+*.mp4 binary
+*.pdf binary
+*.png binary
+*.ppt binary
+*.pptx binary
+*.rar binary
+*.tar binary
+*.ttf binary
+*.webm binary
+*.webp binary
+*.woff binary
+*.woff2 binary
+*.xls binary
+*.xlsx binary
+*.zip binary
